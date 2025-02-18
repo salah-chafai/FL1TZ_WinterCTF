@@ -54,12 +54,11 @@ Each challenge is organized into its own directory, containing the following:
    ```
    docker run -it --rm challenge-1
    ```
-4. **Solve the Challenge:** 
-   Use the provided description.md and attachments.zip to understand and solve the challenge. 
+4. **Solve the Challenge:**  
+   Use the provided description.md and attachments.zip to understand and solve the challenge.  
    Refer to writeup if you need help or want to verify your solution.
 
 ---
 
-## 📜 License
-
+## 📜 License  
 This repository is licensed under the MIT License. Feel free to use, modify, and distribute the challenges and writeups, but please attribute the original work to the author.
