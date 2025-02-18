@@ -55,8 +55,8 @@ Each challenge is organized into its own directory, containing the following:
    docker run -it --rm challenge-1
    ```
 3. **Solve the Challenge:**
+
    Use the provided description.md and attachments.zip to understand and solve the challenge.
-   
    Refer to writeup if you need help or want to verify your solution.
 
 ---
