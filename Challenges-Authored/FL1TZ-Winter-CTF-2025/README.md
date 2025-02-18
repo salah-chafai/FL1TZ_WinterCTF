@@ -43,7 +43,7 @@ Each challenge is organized into its own directory, containing the following:
    ```
    cd CTF-Compendium/Challenges-Authored/FL1TZ-Winter-CTF-2025/Pwn/challenge-1/
    ```
-3. **Set Up the Environment:** 
+3. **Set Up the Environment:**  
    Build the Docker image:
    ```     
    docker build -t challenge-1 .
