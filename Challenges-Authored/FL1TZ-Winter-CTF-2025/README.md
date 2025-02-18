@@ -35,6 +35,7 @@ Each challenge is organized into its own directory, containing the following:
 ---
 
 ## 🚀 **Getting Started**
+
 1. **Clone the Repository:**
    ```
    git clone https://github.com/salah-chafai/CTF-Compendium.git
@@ -60,4 +61,5 @@ Each challenge is organized into its own directory, containing the following:
 ---
 
 ## 📜 License  
+
 This repository is licensed under the MIT License. Feel free to use, modify, and distribute the challenges and writeups, but please attribute the original work to the author.
