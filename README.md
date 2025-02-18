@@ -41,13 +41,6 @@ Here, you'll find detailed writeups for challenges I've solved from other CTF ev
 
 ---
 
-## 📜 License
-
-This repository is licensed under the [MIT License](LICENSE). However, please note that some materials (e.g., challenge binaries or source code) included in the `Writeup-Archive` directory may be third-party and are excluded from the license. For more details, refer to the [LICENSE](LICENSE) file.
-
----
-
-
 ## 🚀 Getting Started
 
 1. **Clone the Repository:**
@@ -63,6 +56,12 @@ This repository is licensed under the [MIT License](LICENSE). However, please no
 4. **Contribute:**
    
    🚫 This repository is intended to showcase my personal CTF-related work. As such, contributions are not currently accepted. I appreciate your understanding!
+
+---
+
+## 📜 License
+
+This repository is licensed under the [MIT License](LICENSE). However, please note that some materials (e.g., challenge binaries or source code) included in the `Writeup-Archive` directory may be third-party and are excluded from the license. For more details, refer to the [LICENSE](LICENSE) file.
 
 ---
    
