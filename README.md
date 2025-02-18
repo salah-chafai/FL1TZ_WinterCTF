@@ -64,7 +64,7 @@ This repository is licensed under the [MIT License](LICENSE). However, please no
    ```
 3. **Contribute:**
    ```
-   This repository is intended to showcase my personal CTF-related work. As such, contributions are not currently accepted. I appreciate your understanding! 🚫
+   🚫 This repository is intended to showcase my personal CTF-related work. As such, contributions are not currently accepted. I appreciate your understanding!
    ```
    
 📧 Contact
