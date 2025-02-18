@@ -51,10 +51,8 @@ Securinets-DarkestHour-2025/
    ```
 3. **Explore the Writeup:**
 
-   Open README.md to read the detailed solution.
-
-   Extract attachments.zip to access the challenge files.
-
+   Open README.md to read the detailed solution.  
+   Extract attachments.zip to access the challenge files.  
    Run solver.py (if available) to see the solution in action.
 
 ---
