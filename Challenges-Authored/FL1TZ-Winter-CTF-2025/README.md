@@ -4,7 +4,7 @@ This repository contains all the challenges I authored for the **FL1TZ-Winter-CT
 ---
 
 ## 📂 Repository Structure
-
+```
 FL1TZ-Winter-CTF-2025/
 └── Pwn/
     ├── challenge-1/
@@ -20,7 +20,7 @@ FL1TZ-Winter-CTF-2025/
     │   ├── writeup
     │   └── Dockerfile
     └── ...
-
+```
 ---
 
 ## 🛠️ Usage
@@ -37,26 +37,23 @@ Each challenge is organized into its own directory, containing the following:
 1. **Clone the Repository:**
    ```
    git clone https://github.com/salah-chafai/CTF-Compendium.git
-
-    Navigate to a Challenge:
-
-    cd CTF-Compendium/Challenges-Authored/FL1TZ-Winter-CTF-2025/Pwn/challenge-1/
-
-    Set Up the Environment:
-
-        Build the Docker image:
-        
-        docker build -t challenge-1 .
-
-        Run the container:
-
-        docker run -it --rm challenge-1
-
-    Solve the Challenge:
-
-        Use the provided description.md and attachments.zip to understand and solve the challenge.
-
-        Refer to writeup if you need help or want to verify your solution.
+   ```
+2. **Navigate to a Challenge:**
+   ```
+   cd CTF-Compendium/Challenges-Authored/FL1TZ-Winter-CTF-2025/Pwn/challenge-1/
+   ```
+3. **Set Up the Environment:**
+   Build the Docker image:
+   ```     
+   docker build -t challenge-1 .
+   ```
+   Run the container:
+   ```
+   docker run -it --rm challenge-1
+   ```
+3. **Solve the Challenge:**
+   Use the provided description.md and attachments.zip to understand and solve the challenge.
+   Refer to writeup if you need help or want to verify your solution.
 
 📜 License
 
