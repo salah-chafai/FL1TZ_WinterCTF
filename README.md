@@ -33,7 +33,7 @@ CTF-Compendium/
 
 ## 🛠️ Usage
 
-### 🛠️ **Challenges-Authored**
+### 🧩 **Challenges-Authored**
 This directory houses all the challenges I've authored for various CTF events. Each event is organized into categories such as **Pwn**, **Web**, and **Crypto**. Dive into the individual challenge directories for more details, including problem statements, solutions, and any additional resources.
 
 ### 📝 **Writeup-Archive**
@@ -57,7 +57,7 @@ This repository is licensed under the [MIT License](LICENSE). However, please no
 
 2. **Explore the Challenges:**
    
-   Navigate to the Challenges-Authored directory to explore the challenges I've created.
+   Navigate to the Challenges-Authored directory to explore the challenges I've created.  
    Check out the Writeup-Archive directory for writeups and solutions from other CTF events.
    
 4. **Contribute:**
