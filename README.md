@@ -59,7 +59,7 @@ This repository is licensed under the [MIT License](LICENSE). However, please no
    Navigate to the Challenges-Authored directory to explore the challenges I've created.
    Check out the Writeup-Archive directory for writeups and solutions from other CTF events.
    
-3. **Contribute:**
+4. **Contribute:**
    🚫 This repository is intended to showcase my personal CTF-related work. As such, contributions are not currently accepted. I appreciate your understanding!
    
 📧 Contact
