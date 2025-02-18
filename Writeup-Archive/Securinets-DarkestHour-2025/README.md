@@ -57,6 +57,6 @@ Securinets-DarkestHour-2025/
 
 ---
 
-📜 License
+## 📜 License
 
 This repository is licensed under the MIT License. Feel free to use, modify, and distribute the writeups, but please attribute the original work to the author.
