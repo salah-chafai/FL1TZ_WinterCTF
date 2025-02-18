@@ -1,6 +1,6 @@
-Challenge Name: Review Hub
+### Challenge Name: Review Hub
 
-Difficulty: Medium-Hard
+**Difficulty:** Medium-Hard
 
-Description:
+**Description:**
 A faulty bug is causing the system to loop indefinitely during employee reviews. How can we patch this?

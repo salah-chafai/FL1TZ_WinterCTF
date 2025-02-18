@@ -1,6 +1,6 @@
-Challenge Name: Syscalator
+### Challenge Name: Syscalator
 
-Difficulty: Easy
+**Difficulty:** Easy
 
-Description:
+**Description:**
 The Syscalator is a magical calculator that can perform simple arithmetic, but it can also invoke special calls.
