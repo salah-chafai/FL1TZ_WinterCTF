@@ -45,7 +45,7 @@ Each challenge is organized into its own directory, containing the following:
    ```
    cd CTF-Compendium/Challenges-Authored/FL1TZ-Winter-CTF-2025/Pwn/challenge-1/
    ```
-3. **Set Up the Environment:**
+3. **Set Up the Environment:** 
    Build the Docker image:
    ```     
    docker build -t challenge-1 .
@@ -54,8 +54,8 @@ Each challenge is organized into its own directory, containing the following:
    ```
    docker run -it --rm challenge-1
    ```
-4. **Solve the Challenge:**
-   Use the provided description.md and attachments.zip to understand and solve the challenge.
+4. **Solve the Challenge:** 
+   Use the provided description.md and attachments.zip to understand and solve the challenge. 
    Refer to writeup if you need help or want to verify your solution.
 
 ---
