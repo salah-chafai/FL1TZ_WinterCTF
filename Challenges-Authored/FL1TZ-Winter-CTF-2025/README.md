@@ -24,9 +24,7 @@ FL1TZ-Winter-CTF-2025/
 ```
 ---
 
-## 🛠️ Usage
-
-### 🧩 **Challenges**
+## 🧩 Challenges  
 Each challenge is organized into its own directory, containing the following:
 - **`description.md`**: A detailed description of the challenge.
 - **`attachments.zip`**: Files provided to participants (e.g., binaries, source code, or other resources).
