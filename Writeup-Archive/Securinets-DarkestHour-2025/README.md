@@ -5,7 +5,7 @@ Welcome to the **Securinets-DarkestHour-2025 Writeups** archive! This directory 
 ---
 
 ## 📂 Repository Structure
-
+```
 Securinets-DarkestHour-2025/
 ├── Pwn/
 │   ├── Challenge-1/
@@ -27,8 +27,7 @@ Securinets-DarkestHour-2025/
     │   ├── README.md
     │   └── solver.py
     └── ...
-
-
+```
 ---
 
 ## 🛠️ Usage
@@ -43,19 +42,22 @@ Securinets-DarkestHour-2025/
 ## 🚀 Getting Started
 
 1. **Clone the Repository:**
+   ```
    git clone https://github.com/salah-chafai/CTF-Compendium.git
+   ```
+2. **Navigate to a Challenge:**
+   ```
+   cd CTF-Compendium/Writeup-Archive/Securinets-DarkestHour-2025/Pwn/Challenge-1/
+   ```
+3. **Explore the Writeup:**
 
-    Navigate to a Challenge:
+   Open README.md to read the detailed solution.
 
-    cd CTF-Compendium/Writeup-Archive/Securinets-DarkestHour-2025/Pwn/Challenge-1/
+   Extract attachments.zip to access the challenge files.
 
-    Explore the Writeup:
+   Run solver.py (if available) to see the solution in action.
 
-        Open README.md to read the detailed solution.
-
-        Extract attachments.zip to access the challenge files.
-
-        Run solver.py (if available) to see the solution in action.
+---
 
 📜 License
 
